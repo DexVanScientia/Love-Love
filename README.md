@@ -1,4 +1,4 @@
-**💖 Love Particle**
+# 💖 Love Particle
 
 Welcome to the **Love Particle** project! ✨ This lightweight and delightful animation is perfect for adding a romantic sparkle to your webpage or digital greeting. Built with simplicity and elegance in mind, it’s ideal for expressing affection in a visually captivating way.
 
